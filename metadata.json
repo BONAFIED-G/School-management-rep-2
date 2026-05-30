@@ -1,0 +1,8 @@
+{
+  "name": "Remix: School Records Manager",
+  "description": "Manage student attendance, grades, courses, behavior logs, with automated notifications and AI academic counseling reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
